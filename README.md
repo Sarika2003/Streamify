@@ -2,6 +2,8 @@
 
 A modern web application designed to connect people worldwide through **real-time messaging**, **video calls**, and **interactive features**. Built with scalability, security, and performance in mind.
 
+<img width="1881" height="905" alt="Screenshot 2025-10-11 200152" src="https://github.com/user-attachments/assets/e7a12d8c-dac6-47e8-b3a4-891d9c953fe1" />
+
 ---
 
 ## 🎯 Motive
